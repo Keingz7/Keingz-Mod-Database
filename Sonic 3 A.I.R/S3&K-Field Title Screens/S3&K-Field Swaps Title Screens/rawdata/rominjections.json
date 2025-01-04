@@ -1,0 +1,37 @@
+{
+              "TitleSonic":
+              {
+                     "File": "Sonic.bin",
+                     "RomInject": "0x359FC6"
+              },
+              "SEGA":
+              {
+                     "File": "Sonic.bin",
+                     "RomInject": "0x0d3a64"
+              },              
+              "SonicKnuckles2":
+              {
+                     "File": "Sonic.bin",
+                     "RomInject": "0xD3A64"
+              }, 
+              "SonicKnuckles3":
+              {
+                     "File": "Sonic.bin",
+                     "RomInject": "0xD4BA6"
+              },                          
+              "SonicKnuckles":
+              {
+                     "File": "Sonic.bin",
+                     "RomInject": "0x0d4ba6"
+              },
+              "SonicKnuckles8":
+              {
+                     "File": "SK Sonic Land Frames.bin",
+                     "RomInject": "0xD0E12"
+              },
+              "SonicAdventure7":
+              {
+                     "File": "SK Sonic Knuckles.bin",
+                     "RomInject": "0xCD910"
+              }              
+}
